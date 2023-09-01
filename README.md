@@ -17,7 +17,7 @@
   <img src="https://github.com/MahmoudKamal01/Deliveroo-clone/blob/main/images/5.jpeg?raw=true" width="200" />
 </p>
 
-# Sanity
+##
   <img src="https://github.com/MahmoudKamal01/Deliveroo-clone/blob/main/images/sanity.PNG?raw=true" />
 
 # Demo
